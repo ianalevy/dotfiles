@@ -1,0 +1,7 @@
+open terminal type tmux 
+detach: ctrl b + d
+
+https://www.redhat.com/en/blog/introduction-tmux-linux
+
+attach to seession 
+tmux attach-session -t session_name
